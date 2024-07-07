@@ -44,4 +44,13 @@ ps: I had stumbled upon an `Enoent-error` to easily fix this simply run `npm ins
 Start Backend server in root directory `node index.js`
 and Frontend server in client directory `npm start`
 
+# Tech Stack and libraries used above are
+* javaScript
+* react.js
+* express.js
+* axios
+* mongoDB
+* cors
+* body-parser
+* node.js
 _and the project ends here!!_
