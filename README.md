@@ -6,7 +6,7 @@ Lets get Straight in towards our new Journey so without any further ado, Steps a
 
 * Step 2 : After Making sure you are inside the right Folder where you want your stuff to be present and open for use. Run --> `npm install init -y`. 
 
-  || This is a package initialiser for Your Json file and to bring reliability while development. Thus, a crucial yet easy task. ||
+  || This is a package initializer for Your Json file and to bring reliability while development. Thus, a crucial yet easy task. ||
 
  * Step 3 : installing Dependencies Run --> `npm install express mongoose body-parser cors`. 
  
