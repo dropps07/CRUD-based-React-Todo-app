@@ -44,6 +44,4 @@ ps: I had stumbled upon an `Enoent-error` to easily fix this simply run `npm ins
 Start Backend server in root directory `node index.js`
 and Frontend server in client directory `npm start`
 
-# The End
-
-_The project was meant to be solely based on learning for my sake and do not seek or wish to develop it any further, though this project had its purpose of teaching me the ettiquetes of writing a well mamnered code and an ability to produce a professional production level code base/directory/Repository..._
+_and the project ends here!!_
