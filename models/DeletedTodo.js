@@ -1,0 +1,1 @@
+//Creating a new Mongoose model "DeletedTodo" to store deleted todos temporarily. This will give Todos to get undo feature if ever deleted by mistake
